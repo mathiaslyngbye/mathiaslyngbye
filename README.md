@@ -1,5 +1,5 @@
-Hi, I’m [Mathias Lyngbye](https://github.com/mathiaslyngbye)
-I’m interested in robotics, computer vision, and artificial intelligence.
+- Hi, I’m [Mathias Lyngbye](https://github.com/mathiaslyngbye)
+- I’m interested in robotics, computer vision, and artificial intelligence.
 
 <!---
 mathiaslyngbye/mathiaslyngbye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
