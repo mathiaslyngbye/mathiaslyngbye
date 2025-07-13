@@ -1,9 +1,6 @@
 # Mathias Lyngbye
 
-## Welcome
-Hi, I am [Mathias Lyngbye](https://github.com/mathiaslyngbye).
-
-I am a robotics engineer based in Odense, Denmark.
+## Introduction
 
 I do hobby projects here from time to time.
 
